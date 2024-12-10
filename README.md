@@ -5,3 +5,5 @@
 ### Fixed the error for props Types
 
 ### Fixed the error for Hook side effects
+
+### Fixed the error for Conditional Rendering
